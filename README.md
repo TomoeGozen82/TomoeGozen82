@@ -159,7 +159,7 @@
 
 <p align="center"><img src="./github-contribution-grid-snake.svg"></p>
 
-<h2 align="center">📩 Connect with me:</h2>
+<h2 align="center">📩 Connect with me</h2>
 
 <p align="center">
   <a href="mailto:denys.ivko14@gmail.com">
