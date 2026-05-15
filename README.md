@@ -155,6 +155,16 @@
     <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
   </a>
 </p>
+<h2 align="center">📩 Connect with me:</h2>
+
+<p align="center">
+  <a href="mailto:denys.ivko14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/lucky_TG007">
+    <img src="https://img.shields.io/badge/Telegram-26A5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 <br>
 
 <p align="center"><img src="./github-contribution-grid-snake.svg"></p>
