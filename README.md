@@ -155,6 +155,10 @@
     <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
   </a>
 </p>
+
+
+<p align="center"><img src="./github-contribution-grid-snake.svg"></p>
+
 <h2 align="center">📩 Connect with me:</h2>
 
 <p align="center">
@@ -167,10 +171,6 @@
     <a href="https://discord.gg/553258638441971742">
     <img src="https://img.shields.io/badge/Discord-0A66C2?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn" />
   </a> 
-<br>
-
-<p align="center"><img src="./github-contribution-grid-snake.svg"></p>
-
 
 
 
