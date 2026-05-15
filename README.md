@@ -161,10 +161,12 @@
   <a href="mailto:denys.ivko14@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/lucky_TG007">
     <img src="https://img.shields.io/badge/Telegram-26A5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+    <a href="https://discord.gg/553258638441971742">
+    <img src="https://img.shields.io/badge/Discord-0A66C2?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn" />
+  </a> 
 <br>
 
 <p align="center"><img src="./github-contribution-grid-snake.svg"></p>
