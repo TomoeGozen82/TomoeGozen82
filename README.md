@@ -162,7 +162,7 @@
 <h2 align="center">📩 Connect with me</h2>
 
 <p align="center">
-  <a href="mailto:star109010901@gmail.com">
+  <a href="mailto:success2025725@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://t.me/lucky_TG007">
