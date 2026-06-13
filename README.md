@@ -14,11 +14,10 @@
   <p align="left"> That's what I'm working on: helping humans upgrade themselves for a post-work world.</p>
   <h2 align="left" >👋 About Me</h2>
 
-  <p align="left">
-    <strong>Full-Stack Developer</strong> & <strong>Automation Engineer</strong> specializing in <strong>AI-powered tools</strong>, <strong>web scraping</strong>,<strong>bot development</strong>, <strong>Chrome extensions</strong>, and <strong>casino/game backend systems</strong>.</p>
-  <p align="left"> Turning ideas into production-ready software with clean code, performance, and scalability in mind.  </p>
-     <p align="left"> <em>Python & JavaScript are my main weapons 🚀</em>  </p>
-  </p>
+  <p align="left"> I build fast, scalable web apps, AI systems, bots, and automation platforms, with strong experience building and monetizing products on Whop (payments, auth, webhooks, real-time features).  </p>
+  <p align="left"> Experienced in AI automation, AI agents, LLM integrations, RAG systems, workflow orchestration, marketplaces, business process automation, chat apps, CRMs, and AI-powered SaaS products.  </p>
+   <p align="left"> Browser automation, reverse engineering, web scraping, API integrations, anti-bot , Android analysis, low-level debugging, and automation systems across e-commerce, retail, ticketing, gaming, and sneaker ecosystems. </p>
+ <h3 align="left">Backed by a small team and a network of specialized developers and researchers, allowing us to handle multiple projects, scale to larger engagements, and collaborate with everyone from early-stage startups to established businesses.</h3>
 
   <br/>
   <!-- Tech stack icons -->
