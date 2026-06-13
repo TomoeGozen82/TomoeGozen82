@@ -8,15 +8,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=19E9EEEE&background=20FF3400&center=true&vCenter=true&width=710&lines=Full+stack+%7C+AI+Automation+%7C+ML+Engineer+;Reverse+Engineering+%7C+Ticketmaster+%7C+AIO+%7C+Discord+Bot)](https://git.io/typing-svg)
   <br/><br/>
   <!-- Main description -->
-  <h2>👋 About Me</h2>
+  <p align="left"> I'm worried about humanity's future.</p>
+  <p align="left"> Most people built their identities around their jobs—their title, their place in a hierarchy, their usefulness to an organization. AI is about to automate a lot of that, which will cause a crisis for millions.</p>
+  <p align="left"> But I think this is also an opportunity. If we do it right, AI can free people to discover who they actually are—their purposes, their gifts, the things they'd pursue even if nobody paid them.</p>
+  <p align="left"> That's what I'm working on: helping humans upgrade themselves for a post-work world.</p>
+  <h2 align="left" >👋 About Me</h2>
 
-  <p>
-    <strong>Full-Stack Developer</strong> & <strong>Automation Engineer</strong> specializing in <strong>AI-powered tools</strong>, <strong>web scraping</strong>, </p> <p><strong>bot development</strong>, <strong>Chrome extensions</strong>, and <strong>casino/game backend systems</strong>.</p>
-  
-
-  <p>
-    Turning ideas into production-ready software with clean code, performance, and scalability in mind.<br/>
-    <em>Python & JavaScript are my main weapons 🚀</em>
+  <p align="left">
+    <strong>Full-Stack Developer</strong> & <strong>Automation Engineer</strong> specializing in <strong>AI-powered tools</strong>, <strong>web scraping</strong>,<strong>bot development</strong>, <strong>Chrome extensions</strong>, and <strong>casino/game backend systems</strong>.</p>
+  <p align="left"> Turning ideas into production-ready software with clean code, performance, and scalability in mind.  </p>
+     <p align="left"> <em>Python & JavaScript are my main weapons 🚀</em>  </p>
   </p>
 
   <br/>
