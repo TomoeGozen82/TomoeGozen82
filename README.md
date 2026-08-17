@@ -9,7 +9,7 @@
   <br/><br/>
   <!-- Main description -->
   <p align="left"> I'm worried about humanity's future.</p>
-  <p align="left"> Most people built their identities around their jobs—their title, their place in a hierarchy, their usefulness to an organization. AI is about to automate a lot of that, which will cause a crisis for millions.</p>
+  <p align="left"> Most people built their identities around their jobs their title, their place in a hierarchy, their usefulness to an organization. AI is about to automate a lot of that, which will cause a crisis for millions.</p>
   <p align="left"> But I think this is also an opportunity. If we do it right, AI can free people to discover who they actually are—their purposes, their gifts, the things they'd pursue even if nobody paid them.</p>
   <p align="left"> That's what I'm working on: helping humans upgrade themselves for a post-work world.</p>
   <h2 align="left" >👋 About Me</h2>
