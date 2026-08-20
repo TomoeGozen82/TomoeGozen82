@@ -14,10 +14,12 @@
   <p align="left"> That's what I'm working on: helping humans upgrade themselves for a post-work world.</p>
   <h2 align="left" >👋 About Me</h2>
 
-  <p align="left"> I build fast, scalable web apps, AI systems, bots, and automation platforms, with strong experience building and monetizing products on Whop (payments, auth, webhooks, real-time features).  </p>
-  <p align="left"> Experienced in AI automation, AI agents, LLM integrations, RAG systems, workflow orchestration, marketplaces, business process automation, chat apps, CRMs, and AI-powered SaaS products.  </p>
-   <p align="left"> Browser automation, reverse engineering, web scraping, API integrations, anti-bot , Android analysis, low-level debugging, and automation systems across e-commerce, retail, ticketing, gaming, and sneaker ecosystems. </p>
- <h3 align="left">Backed by a small team and a network of specialized developers and researchers, allowing us to handle multiple projects, scale to larger engagements, and collaborate with everyone from early-stage startups to established businesses.</h3>
+  <p align="left"> I specialize in reverse engineering, anti-bot research, API/protocol analysis, browser automation, and high-performance backend systems. </p>
+  <p align="left">My work includes Akamai, DataDome, and Incapsula analysis, browser fingerprinting, CAPTCHA integrations, queue systems, Android/iOS analysis, low-level debugging, web scraping, and scalable automation infrastructure.</p>
+   <p align="left"> I have experience building ACO/AIO tooling, retail automation, inventory monitors, ticket monitoring systems, real-time queue processing, account/session management, API integrations, and Discord/Whop ecosystems. 
+I've also worked on Pokémon-related automation, Walmart workflows, social automation, custom monitors, and backend services designed for high-concurrency workloads.</p>
+   <p align="left"> Beyond automation, I build AI-powered SaaS products, AI agents, RAG systems, workflow automation, mobile applications, and production-ready web platforms using modern backend and frontend technologies. </p>
+ <h3 align="left"> Backed by a small team of specialized developers and researchers, enabling us to deliver everything from rapid prototypes to large-scale engineering projects and long-term collaborations. </h3>
 
   <br/>
   <!-- Tech stack icons -->
