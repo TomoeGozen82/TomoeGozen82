@@ -5,7 +5,7 @@
   </div>
   <br/><br/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&letterSpacing=&pause=1000&color=0AB2F7&background=FFF1EA00&width=600&lines=AI+%26+Bot+%26+Automation+Engineer+%26+Reverse+engineering;AIO%2FACO+%7C+Ticketing+%7C+Retail+%7C+APIs+%7C+Web+Scraping+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=21&letterSpacing=&pause=1000&color=0AB2F7&background=FFF1EA00&width=600&lines=AI+%26+Bot+%26+Automation+Engineer+%26+Reverse+engineering;AIO%2FACO+%7C+Ticketing+%7C+Retail+%7C+APIs+%7C+Web+Scraping+)](https://git.io/typing-svg)
   <br/><br/>
   <!-- Main description -->
   <p align="left"> I'm worried about humanity's future.</p>
